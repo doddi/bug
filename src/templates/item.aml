@@ -1,0 +1,9 @@
+hstack
+  spacer
+  vstack
+    if display
+      text "line 1"
+      text "line 2"
+    else
+      text "unknown"
+  spacer

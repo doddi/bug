@@ -1,0 +1,11 @@
+border
+  hstack
+    spacer
+    vstack
+      hstack
+        spacer
+        text "Press enter should have 2 lines"
+        spacer
+      spacer
+      @item [display: display]
+    spacer
